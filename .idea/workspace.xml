@@ -121,8 +121,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="1042" column="133" lean-forward="false" selection-start-line="1042" selection-start-column="133" selection-end-line="1042" selection-end-column="133" />
+            <state relative-caret-position="9789">
+              <caret line="1434" column="133" lean-forward="false" selection-start-line="1434" selection-start-column="133" selection-end-line="1434" selection-end-column="133" />
               <folding />
             </state>
           </provider>
@@ -819,7 +819,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492285220129</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="GitHub Plugin Test 2">
+      <created>1492285476659</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1492285476659</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -889,7 +896,8 @@
     <MESSAGE value="Email Test" />
     <MESSAGE value="GitHub Hook Test" />
     <MESSAGE value="GitHub Plugin Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="GitHub Plugin Test" />
+    <MESSAGE value="GitHub Plugin Test 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="GitHub Plugin Test 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1349,8 +1357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="1042" column="133" lean-forward="false" selection-start-line="1042" selection-start-column="133" selection-end-line="1042" selection-end-column="133" />
+        <state relative-caret-position="9789">
+          <caret line="1434" column="133" lean-forward="false" selection-start-line="1434" selection-start-column="133" selection-end-line="1434" selection-end-column="133" />
           <folding />
         </state>
       </provider>
