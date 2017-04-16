@@ -7,7 +7,7 @@ package com.niall;
 public class Formulas {
     public static double AreaTriangle(double base, double height)
     {
-        double answer = (base + height) / 2;
+        double answer = (base * height) / 2;
         return answer;
     }
     public static double AreaCircle(double radius)
