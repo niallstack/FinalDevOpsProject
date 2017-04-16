@@ -30,9 +30,9 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa2cc22-81f6-4461-90f6-80996742f4ab" name="Default" comment="Build Template Test">
+    <list default="true" id="cfa2cc22-81f6-4461-90f6-80996742f4ab" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/niall/ExchangeRate.java" afterPath="$PROJECT_DIR$/src/main/java/com/niall/ExchangeRate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/niall/Formulas.java" afterPath="$PROJECT_DIR$/src/main/java/com/niall/Formulas.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Conversions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Conversions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/Conversions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="775">
+              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -72,7 +72,7 @@
       <file leaf-file-name="ConversionsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="25">
               <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding />
             </state>
@@ -99,11 +99,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Formulas.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Formulas.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/Formulas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
+            <state relative-caret-position="100">
+              <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -112,8 +112,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22150">
-              <caret line="886" column="16" lean-forward="false" selection-start-line="886" selection-start-column="16" selection-end-line="886" selection-end-column="16" />
+            <state relative-caret-position="22375">
+              <caret line="895" column="16" lean-forward="false" selection-start-line="895" selection-start-column="16" selection-end-line="895" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -175,9 +175,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/niall/FormulasTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/niall/Formulas.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/niall/ExchangeRate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/niall/Formulas.java" />
       </list>
     </option>
   </component>
@@ -746,7 +746,14 @@
       <option name="project" value="LOCAL" />
       <updated>1492338582701</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Piazza Test">
+      <created>1492344193626</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1492344193626</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -819,10 +826,13 @@
     <MESSAGE value="GitHub Plugin Test 2" />
     <MESSAGE value="GitHub Plugin Test 3" />
     <MESSAGE value="Build Template Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Build Template Test" />
+    <MESSAGE value="Piazza Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Piazza Test" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1001,8 +1011,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22150">
-          <caret line="886" column="16" lean-forward="false" selection-start-line="886" selection-start-column="16" selection-end-line="886" selection-end-column="16" />
+        <state relative-caret-position="22375">
+          <caret line="895" column="16" lean-forward="false" selection-start-line="895" selection-start-column="16" selection-end-line="895" selection-end-column="16" />
           <folding />
         </state>
       </provider>
@@ -1184,22 +1194,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/Formulas.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/ExchangeRate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -1216,10 +1210,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/Conversions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/Conversions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/Formulas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="31" lean-forward="false" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
