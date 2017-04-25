@@ -30,8 +30,9 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cfa2cc22-81f6-4461-90f6-80996742f4ab" name="Default" comment="Email Test&#10;&#10;">
+    <list default="true" id="cfa2cc22-81f6-4461-90f6-80996742f4ab" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -71,7 +72,7 @@
       <file leaf-file-name="ConversionsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
+            <state relative-caret-position="200">
               <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
               <folding />
             </state>
@@ -88,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExchangeRateTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ExchangeRateTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1150">
-              <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+            <state relative-caret-position="605">
+              <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -111,8 +112,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24100">
-              <caret line="964" column="12" lean-forward="false" selection-start-line="964" selection-start-column="12" selection-end-line="964" selection-end-column="12" />
+            <state relative-caret-position="23925">
+              <caret line="957" column="12" lean-forward="false" selection-start-line="957" selection-start-column="12" selection-end-line="957" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -128,7 +129,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormulaUI.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FormulaUI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/FormulaUI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
@@ -173,12 +174,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/niall/Conversions.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/niall/FormulasTest.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/niall/ExchangeRate.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/niall/Formulas.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/niall/FormulaUI.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java" />
       </list>
     </option>
   </component>
@@ -796,7 +797,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493127583465</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Devlopment + Production Test&#10;&#10;">
+      <created>1493141855143</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1493141855143</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -829,7 +837,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32928804" sideWeight="0.50555557" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.50555557" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -876,7 +884,8 @@
     <MESSAGE value="Attempt at getting Heroku working&#10;" />
     <MESSAGE value="Fix Code Error&#10;&#10;" />
     <MESSAGE value="Email Test&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Email Test&#10;&#10;" />
+    <MESSAGE value="Devlopment + Production Test&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Devlopment + Production Test&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1066,8 +1075,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24100">
-          <caret line="964" column="12" lean-forward="false" selection-start-line="964" selection-start-column="12" selection-end-line="964" selection-end-column="12" />
+        <state relative-caret-position="23925">
+          <caret line="957" column="12" lean-forward="false" selection-start-line="957" selection-start-column="12" selection-end-line="957" selection-end-column="12" />
           <folding />
         </state>
       </provider>
@@ -1221,14 +1230,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/niall/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1150">
-          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/FormulasTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1249,14 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
           <folding />
         </state>
       </provider>
@@ -1292,6 +1285,22 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ConversionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/niall/ExchangeRateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="46" column="41" lean-forward="false" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
